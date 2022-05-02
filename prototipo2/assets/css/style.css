@@ -1,0 +1,31 @@
+body{
+    margin:auto 0px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    color: black;
+}
+header{
+    background-color: whitesmoke;
+    padding: 15px;
+}
+.perfil{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 300px;
+}
+.conteudo{
+    background-color: white;
+    padding: 300px;
+}
+#img{
+    width: 196px;
+    border-radius: 10px;
+}
+footer{
+    background-color: black;
+    padding: 100px;
+    color: white;
+    text-align: center;
+}
