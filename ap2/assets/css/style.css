@@ -1,0 +1,17 @@
+.tituloNoticias{
+    color: rgb(255, 0, 0);
+}
+.fotoJogadores{
+    border-radius: 50%;
+    max-width: 120px;
+}
+#h1L{
+    color: rgb(255, 0, 0);
+}
+.teste{
+    background-color: rgb(255, 0, 0);
+    margin: auto;
+}
+a{
+    color: inherit;
+}
